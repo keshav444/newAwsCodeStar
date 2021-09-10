@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web service I edit on 10 Sep
+Welcome to the AWS CodeStar sample web service I edit on 10 Sep 2021
 ==============================================
 
 This sample code helps get you started with a simple Python web service using
